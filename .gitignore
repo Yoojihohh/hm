@@ -1,3 +1,5 @@
+# Alert("유지호 최고!")
+
 # For projects using Nanoc (http://nanoc.ws/)
 
 # Default location for output (needs to match output_dir's value found in nanoc.yaml)
@@ -8,3 +10,4 @@ tmp/nanoc/
 
 # Crash Log
 crash.log
+
